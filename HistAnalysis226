@@ -1,0 +1,37 @@
+Zb:                                      86
+Zt:                                      50
+Ab:                                      226
+At:                                      120
+Eb:                                      5080
+Ex:                                      635
+thick:                                   2.1
+depth:                                   1.05
+cddist:                                  28.6
+cdoffset:                                243.8
+deadlayer:                               0.0007
+plunger:                                 0
+bg_frac:                                 -0.75
+daq_dir:                                 
+local_dir:                               
+med_pre:                                 
+add_file:                                
+settings:                                /Users/rebeccaclews/Documents/PHYS498-Project/Coding/config_mphys/MBSettings2018_CLX.dat
+outfile:                                 /Users/rebeccaclews/Documents/PHYS498-Project/Coding/226Rn_120Sn
+calfile:                                 /Users/rebeccaclews/Documents/PHYS498-Project/Coding/config_mphys/calibration_mb2018.cal
+cutfile:                                 /Users/rebeccaclews/Documents/PHYS498-Project/Coding/config_mphys/cutfile_226Rn_120Sn.root:Bcut:Tcut
+srimdir:                                 /Users/rebeccaclews/Documents/PHYS498-Project/Coding/srim
+filelist:                                
+source:                                  0
+beamdump:                                1
+spede:                                   0
+crex:                                    0
+trex:                                    0
+cdpad:                                   1
+singles:                                 0
+gamgam:                                  0
+addback:                                 0
+reject:                                  1
+segsum:                                  1
+verbose:                                 0
+usecut:                                  1
+usekin:                                  0
